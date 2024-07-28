@@ -1,4 +1,3 @@
-# Lykoudi Despoina
 # Cluster dendogram
 
 dat=mtcars
